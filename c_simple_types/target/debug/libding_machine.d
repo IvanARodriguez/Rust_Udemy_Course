@@ -1,0 +1,1 @@
+/Users/quimicarordriguez/Desktop/Programming\ studies/Rust_Programming_mac/ultimate_rust_crash_course/c_simple_types/target/debug/libding_machine.rlib: /Users/quimicarordriguez/Desktop/Programming\ studies/Rust_Programming_mac/ultimate_rust_crash_course/c_simple_types/src/lib.rs
