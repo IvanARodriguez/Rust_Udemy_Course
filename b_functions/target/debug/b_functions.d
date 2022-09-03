@@ -1,0 +1,1 @@
+/Users/quimicarordriguez/Desktop/Programming\ studies/Rust_Programming_mac/ultimate_rust_crash_course/exercise/b_functions/target/debug/b_functions: /Users/quimicarordriguez/Desktop/Programming\ studies/Rust_Programming_mac/ultimate_rust_crash_course/exercise/b_functions/src/main.rs

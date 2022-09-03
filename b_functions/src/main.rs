@@ -23,10 +23,12 @@ fn main() {
     //    - Take three arguments of type i32
     //    - Multiply the three arguments together
     //    - Return the result (which should be 280 when you run the program).
-    //
+    fn volume(width: i32, height: i32, depth: i32) -> i32 {
+        width * height * depth
+    }
     // If you get stuck, remember that this is *very* similar to what `area_of` does.
     //
-    //println!("Volume is {}", volume(width, height, depth));
+    println!("Volume is {}", volume(width, height, depth));
 }
 
 fn area_of(x: i32, y: i32) -> i32 {
